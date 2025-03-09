@@ -1,0 +1,23 @@
+0
+C++ Primer|Lippman|Addison-Wesley|2012|001|Available|0
+Clean Code|Martin|Prentice Hall|2008|002|Available|0
+Design Patterns|Gamma et al.|Addison-Wesley|1994|003|Available|0
+Effective C++|Meyers|O'Reilly|2005|004|Available|0
+First Added Book|Soul Society|Yamamoto Genryusai|1999|005|Available|0
+Modern C++ Design|Alexandrescu|Addison-Wesley|2001|006|Available|0
+The C Programming Language|Kernighan & Ritchie|Prentice Hall|1988|007|Available|0
+Programming Pearls|Bentley|Addison-Wesley|1986|008|Available|0
+Clean Architecture|Martin|Prentice Hall|2017|009|Available|0
+Refactoring|Martin Fowler|Addison-Wesley|1999|010|Available|0
+Code Complete|McConnell|Microsoft Press|2004|011|Available|0
+The Pragmatic Programmer|Hunt & Thomas|Addison-Wesley|1999|012|Available|0
+Design Patterns Explained|Shalloway|Prentice Hall|2001|013|Available|0
+SICP|Abelson & Sussman|MIT Press|1996|014|Available|0
+Introduction to Algorithms|Cormen et al.|MIT Press|2009|015|Available|0
+Head First Design Patterns|Freeman|O'Reilly|2004|016|Available|0
+Cracking the Coding Interview|McDowell|CareerCup|2015|017|Available|0
+Algorithms|Sedgewick|Addison-Wesley|2011|018|Available|0
+Effective Java|Bloch|Addison-Wesley|2008|019|Available|0
+Java Concurrency in Practice|Goetz|Addison-Wesley|2006|020|Available|0
+Java Concurrency in Practice|Goetz|Addison-Wesley|2006|021|Available|0
+Java Concurrency in Practice|Goetz|Addison-Wesley|2006|022|Available|0

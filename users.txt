@@ -1,0 +1,17 @@
+Student|Alice|STU001|3|15|10|0
+Student|Bob|STU002|3|15|10|0
+Student|Billy|STU003|3|15|10|0
+Student|Oggy|STU004|3|15|10|0
+Student|Jack|STU005|3|15|10|0
+Student|Paplu|STU006|3|15|10|0
+Student|Devansh|230354|3|15|10|0
+Student|Urvashi|12345|3|15|10|0
+Faculty|Dr. Smith|FAC001|5|30|0|0
+Faculty|Dr. Isaac|FAC002|5|30|0|0
+Faculty|Dr. Vlad Dracula Tepes|FAC003|5|30|0|0
+Faculty|Dr. Alucard|FAC004|5|30|0|0
+Faculty|Harbola|69|5|30|0|0
+Librarian|Mr. Baburao|LIBR001|0|0|0|0
+Librarian|Mr. Levosalbutamol Sulphate|LIBR002|0|0|0|0
+Librarian|Byakuya|Senbonsakura_1000|0|0|0|0
+Librarian|Zaraki|Kenpachi_001|0|0|0|0
