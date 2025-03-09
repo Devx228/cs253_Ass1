@@ -53,3 +53,7 @@ This is a simple command-line library management system written in C++.
    ```bash
    g++ -o library main.cpp Library.cpp Book.cpp Account.cpp User.cpp Menu.cpp
 
+3. After Successful compilation, run the software by executing:
+   ```bash
+   ./library
+
