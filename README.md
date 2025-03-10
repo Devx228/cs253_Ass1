@@ -13,6 +13,9 @@ This is a simple command-line library management system written in C++.
 - **Empty Library Check:**  
   If the library contains no books, the system displays the message "No book available" when a user tries to search or borrow a book.
 
+  In the current implementation, any user can increment the day count, which isn't ideal. This can be revised so that only the librarian has the necessary access—using role-based controls on both the user 
+  interface and the backend—to ensure proper system management.Due to some timing issues and the complexity of this, I didn't update this properly but it can be managed accordingly.
+
 - **Data Encoding (Books and Users):**  
   The library uses text files (`books.txt` and `users.txt`) to store data:
 
